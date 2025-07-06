@@ -48,4 +48,9 @@ src/
 - Sistema de puntuación
 - Múltiples tipos de enemigos
 - Diferentes estrategias de movimiento
-- Gestión centralizada del estado del juego 
+- Gestión centralizada del estado del juego
+
+## Notas importantes
+
+- **Todos los comandos de compilación y ejecución deben ejecutarse desde la carpeta raíz del proyecto** (donde están los archivos `compile.bat` y `run.bat`).
+- Si usas los scripts, simplemente haz doble clic sobre ellos o ejecútalos desde la terminal estando en la carpeta raíz. 
